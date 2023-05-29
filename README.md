@@ -8,6 +8,10 @@ This is intoduction description.
 
 ## Purpose
 
+This is purpose description 
+
 ## Deployment 
+
+This is deployment description
 
 ## How to contribute 
