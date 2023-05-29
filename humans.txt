@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <Aman> <Amanpatnaik1@gmail.com>
 
 # THANKS
 
