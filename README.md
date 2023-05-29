@@ -14,6 +14,8 @@ This is purpose description
 
 This is deployment description
 
-## How to contribute 
+## How to contribute
+
+Please fork this repository and issue pull request for review" 
 
 ### Copyright 
