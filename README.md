@@ -22,3 +22,5 @@ This is deployment description
 Please fork this repository and issue pull request for review" 
 
 ### Copyright 
+
+All right reserved
