@@ -4,6 +4,7 @@ This is a simple website project for showing how to use Git and Github together.
 Adding a line for rebasing.
 And another line for rebasing example.
 Changes from feature branch
+Updating emergency fix after our stash 
 
 ## Introduction
 
